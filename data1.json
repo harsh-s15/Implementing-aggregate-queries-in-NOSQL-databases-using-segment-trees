@@ -1,0 +1,78 @@
+{
+        "authentication" : 
+                {
+                        "singh.187@iitj.ac.in" :  "bhajanta",
+                        "dadu.1@iitj.ac.in" : "niharika"
+                },      
+        
+
+        "previousLogs" : 
+                {
+                        "singh.187@iitj.ac.in": {
+                                "2023-11-19": {
+                                        "jacket": "1",
+                                        "jeans": "1",
+                                        "pyjama": "1",
+                                        "shirt": "1",
+                                        "tshirt": "1"
+                                }
+                        },
+                        "dadu.1@iitj.ac.in": {
+                                "2023-11-19": {
+                                        "jacket": "1",
+                                        "jeans": "1",
+                                        "pyjama": "1",
+                                        "shirt": "1",
+                                        "tshirt": "1"
+                                }
+                        }   
+                },
+
+        "DryCleaning": 
+                {
+                        "dadu.1@iitj.ac.in": {
+                                "blanket": "7",
+                                "date": "2023-11-19",
+                                "dues": 1840,
+                                "hoodies": "9",
+                                "others": "2",
+                                "returnDate": "2023-11-26",
+                                "sweater": "5"
+                        },
+                        "singh.187@iitj.ac.in": {
+                                "blanket": "7",
+                                "date": "2023-11-19",
+                                "dues": 1840,
+                                "hoodies": "9",
+                                "others": "2",
+                                "returnDate": "2023-11-26",
+                                "sweater": "5"
+                        }
+                },
+
+        "LastDeposit": 
+                {
+                        "dadu.1@iitj.ac.in": {
+                                "date": "2023-11-19",
+                                "jacket": "1",
+                                "jeans": "1",
+                                "pyjama": "1",
+                                "shirt": "1",
+                                "tshirt": "1"
+                        },
+                        "singh.187@iitj.ac.in": {
+                                "2023-11-19": {
+                                        "jacket": "1",
+                                        "jeans": "1",
+                                        "pyjama": "1",
+                                        "shirt": "1",
+                                        "tshirt": "1"
+                                }
+                        }
+
+                }
+        
+        
+
+        
+}
